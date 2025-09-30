@@ -10,7 +10,7 @@ realiza cálculos matemáticos básicos e alguns avançados
 
 ----INSTALAÇÃO-----------------------------------------------------------------
 
-apenas baixe ou copie o códio 'calculadora massa' e rode-o em um compilador que suporte
+apenas baixe ou copie o códio 'calculadora massa.c' e rode-o em um compilador que suporte
 
 a linguagem C
 
