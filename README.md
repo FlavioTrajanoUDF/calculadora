@@ -4,6 +4,7 @@ CALCULADORA MASSA
 
 Uma calculadora científica simples projetada por: FLÁVIO TRAJANO
 com intenção de aperfeiçoar e praticar seus conhecimentos com a linguagem C
+
 ----MODO DE USO---------------------------------------------------------------
 
 - Digite o primeiro número.
@@ -12,6 +13,7 @@ com intenção de aperfeiçoar e praticar seus conhecimentos com a linguagem C
 - A operação selecionada será exibida na tela, juntamente com a opção de inserir o segundo número (caso a operação demande).
 - Após a conlcusão da operação o programa reiniciará automaticamente.
 - Caso deseje o fim do programa, apenas digite '0' no campo 'ESCOLHA A OPERACAO'.
+
 ----LISTA DE OPERAÇÕES---------------------------------------------------------
   
 1- ADIÇÃO
