@@ -6,7 +6,15 @@ Uma calculadora científica simples projetada por: FLÁVIO TRAJANO
 
 com intenção de aperfeiçoar e praticar seus conhecimentos com a linguagem C
 
-----MODO DE USO---------------------------------------------------------------
+realiza cálculos matemáticos básicos e alguns avançados
+
+----INSTALAÇÃO-----------------------------------------------------------------
+
+apenas baixe ou copie o códio 'calculadora massa' e rode-o em um compilador que suporte
+
+a linguagem C
+
+----MODO DE USO----------------------------------------------------------------
 
 - Digite o primeiro número.
 - Ao inseri-lo uma lista de operações será exibida.
@@ -20,7 +28,6 @@ com intenção de aperfeiçoar e praticar seus conhecimentos com a linguagem C
 1- ADIÇÃO
 
 2- SUBTRAÇÃO
-
 
 3- MULTIPLICAÇÃO
 
