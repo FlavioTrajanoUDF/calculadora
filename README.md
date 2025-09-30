@@ -3,6 +3,7 @@ CALCULADORA MASSA
 ----DESCRIÇÃO-----------------------------------------------------------------
 
 Uma calculadora científica simples projetada por: FLÁVIO TRAJANO
+
 com intenção de aperfeiçoar e praticar seus conhecimentos com a linguagem C
 
 ----MODO DE USO---------------------------------------------------------------
@@ -17,22 +18,42 @@ com intenção de aperfeiçoar e praticar seus conhecimentos com a linguagem C
 ----LISTA DE OPERAÇÕES---------------------------------------------------------
   
 1- ADIÇÃO
+
 2- SUBTRAÇÃO
+
+
 3- MULTIPLICAÇÃO
+
 4- DIVISÃO
+
 5- POTENCIAÇÃO
+
 6- RAIZ QUADRADA
+
 7- RAIZ CUBICA
+
 8- SENO
+
 9- COSSENO
+
 10- TANGENTE
+
 11- LOGARITIMO
+
 12- LOGARITIMO NATURAL
+
 13- LOGARITIMO DE X+1
+
 14- EXPONENCIAl
+
 15- ARCO SENO
+
 16- ARCO COSSENO
+
 17- ARCO TANGENTE
+
 18- EXPONENCIAl DE BASE 2
+
 19- RESTO DE DIVISÃO
+
 20- SOMA DE QUADRADOS
